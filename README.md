@@ -1,1 +1,3 @@
-# Analysis_Fatigue_Strength_Additively_Manufactured_Aluminum_Alloy
+# Analysis of Fatigue Strength in Additively Manufactured Aluminum Alloy
+
+This repository includes a [PDF file]() containing a Power BI dashboard presenting an in-depth analysis of the fatigue strength of additively manufactured (AM) aluminum components. This analysis was carried out as part of an AM research project aimed at assessing the impact of various process and post-process parameters on the mechanical properties of the material when subjected to cyclic loading under different loading conditions and stress ratios. The fatigue stress values have been standardized to a range between 0 and 1 for comparative purposes.
